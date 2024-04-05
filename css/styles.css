@@ -10,6 +10,29 @@ a {
 
 ul,ol {
     list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+header {
+border-bottom: 1px solid  #E7E9FC;    
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+
 }
 
 .logo {
@@ -20,6 +43,12 @@ ul,ol {
     line-height: 1.17;
     letter-spacing: 0.03em; ;
     text-transform: uppercase;
+    margin-right: 76px;
+}
+
+.nav-list {
+    display: flex;
+    gap: 40px;
 }
 
 .logo-part {
@@ -34,6 +63,10 @@ ul,ol {
     letter-spacing: 0.02em
 }
 
+.nav-link {
+    padding: 24px 0;
+    display: block;
+}
 .nav-link:hover,
 .nav-link:focus {
     color: #404BBF;
@@ -41,6 +74,12 @@ ul,ol {
 
 .address {
  font-style: normal;
+ margin-left: auto;
+}
+
+.address-list {
+    display: flex;
+    gap: 40px;
 }
 
 .address-link {
