@@ -1,0 +1,187 @@
+body {
+font-family:"Roboto", sans-serif;
+color: #434455;
+background-color:#FFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,ol {
+    list-style: none;
+}
+
+.logo {
+    color: #4D5AE5;
+    font-family: Raleway,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em; ;
+    text-transform: uppercase;
+}
+
+.logo-part {
+    color:#2E2F42;
+}
+
+.nav-link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #404BBF;
+}
+
+.address {
+ font-style: normal;
+}
+
+.address-link {
+    color:#434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+
+.address-link:hover,
+.address-link:focus {
+    color: #404BBF;
+}
+
+.main-section {
+    background: #2E2F42;
+}
+
+.main-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+.maint-button {
+    cursor: pointer;
+    background: #4D5AE5;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.maint-button:hover,
+.maint-button:focus {
+    background-color: #404BBF;
+}
+
+.second-section-heading {
+color: #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.second-section-paragraph {
+color:#434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.third-section {
+    background-color: #F4F4FD;
+}
+
+.third-section-main-heading {
+    color: #2E2F42;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+}
+
+.third-section-heading {
+   color:#2E2F42;
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+}
+.third-section-paragraph {
+    color:#434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.hero-card {
+    background-color: #FFFFFF;
+}
+
+.section-our-portfolio {
+    background: #FFFFFF;
+}
+
+.portfolio {
+    color: #2E2F42;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-heading {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+  
+.portfolio-paragraph {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.section-footer {
+    background-color: #2E2F42;
+}
+
+.info-footer {
+    color:  #F4F4FD;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.logo-part-footer {
+    color:  #F4F4FD;
+}
+
+ 
+
+
+
+
+
+
