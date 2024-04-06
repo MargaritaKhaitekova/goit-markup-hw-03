@@ -280,8 +280,11 @@ width: calc((100% - 48px) / 3);
     letter-spacing: 0.02em;
 }
 
+/*********** Footer **********/
+
 .section-footer {
     background-color: #2E2F42;
+    padding: 100px 0;
 }
 
 .info-footer {
@@ -296,7 +299,18 @@ width: calc((100% - 48px) / 3);
     color:  #F4F4FD;
 }
 
- 
+ .logo-link {
+   display: inline-block;
+   margin-bottom: 16px;
+ }
+
+.info-footer {
+   max-width: 264px;
+}
+
+
+
+
 
 
 
