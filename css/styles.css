@@ -60,13 +60,11 @@ border-bottom: 1px solid  #E7E9FC;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.02em
-}
-
-.nav-link {
+    letter-spacing: 0.02em;
     padding: 24px 0;
     display: block;
 }
+
 .nav-link:hover,
 .nav-link:focus {
     color: #404BBF;
