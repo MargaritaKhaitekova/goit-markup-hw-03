@@ -153,6 +153,9 @@ display: flex;
 gap: 24px;
 }
 
+.first-element-list {
+    width: calc((100% - 72px) / 4);
+}
 
 .second-section-heading {
 color: #2E2F42;
