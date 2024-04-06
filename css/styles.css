@@ -153,7 +153,7 @@ display: flex;
 gap: 24px;
 }
 
-.first-element-list {
+.element-list {
     width: calc((100% - 72px) / 4);
 }
 
@@ -176,6 +176,7 @@ letter-spacing: 0.02em;
 
 .third-section {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .third-section-main-heading {
@@ -186,6 +187,12 @@ letter-spacing: 0.02em;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    margin-bottom: 72px;
+}
+
+.third-section-list-heros {
+    display: flex;
+    gap: 24px;
 }
 
 .third-section-heading {
@@ -205,6 +212,8 @@ letter-spacing: 0.02em;
 
 .hero-card {
     background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 
 .section-our-portfolio {
