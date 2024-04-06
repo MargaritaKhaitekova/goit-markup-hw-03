@@ -4,6 +4,10 @@ color: #434455;
 background-color:#FFF;
 }
 
+img {
+display: block;
+}
+
 a {
     text-decoration: none;
 }
