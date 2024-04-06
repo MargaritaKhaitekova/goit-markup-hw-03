@@ -131,12 +131,18 @@ border-bottom: 1px solid  #E7E9FC;
     background-color: #404BBF;
 }
 
+.list-strategy {
+display: flex;
+gap: 24px;
+}
+
 .second-section-heading {
 color: #2E2F42;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
+
 }
 
 .second-section-paragraph {
