@@ -173,10 +173,16 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
+                     /********** Our Team *********/
+
 
 .third-section {
     background-color: #F4F4FD;
     padding: 120px 0;
+}
+
+.hero-info {
+    padding: 32px 0;
 }
 
 .third-section-main-heading {
@@ -201,13 +207,18 @@ letter-spacing: 0.02em;
    font-weight: 500;
    line-height: 1.2;
    letter-spacing: 0.02em;
+   text-align: center;
+   margin-bottom: 8px;
 }
+
 .third-section-paragraph {
     color:#434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    margin-bottom: 8px;
+    text-align: center;
 }
 
 .hero-card {
